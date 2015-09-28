@@ -1,3 +1,5 @@
-/*
- * This file is created by {{ cookiecutter.author }}.
- */
+{{ cookiecutter.repo_name }}
+============================
+
+
+This is boilerplate.
