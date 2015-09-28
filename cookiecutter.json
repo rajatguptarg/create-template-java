@@ -2,10 +2,7 @@
     "author": "Rajat Gupta",
     "email": "rajat.gupta712@gmail.com",
     "website": "rajatguptarg.github.io",
-    "project_name": "peoject_name",
-    "project_prefix": "my",
+    "class_name": "className",
     "description": "",
     "repo_name": "project-name",
-    "version" : "1.0",
-    "year": "2014"
 }
